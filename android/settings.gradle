@@ -1,0 +1,3 @@
+rootProject.name = 'Billfold'
+
+include ':app'
